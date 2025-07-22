@@ -11,6 +11,8 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Troubleshooting](#-troubleshooting) • [Contributing](#-contributing)
 
+**🔗 [View on GitHub](https://github.com/T3CC4/OGSounds)**
+
 </div>
 
 ---
@@ -51,7 +53,7 @@
 3. Run the game once to generate BepInEx folders
 
 ### Step 2: Install the Mod
-1. Download the latest `SCDEOGSounds.dll` from [Releases](../../releases)
+1. Download the latest `SCDEOGSounds.dll` from [Releases](https://github.com/T3CC4/OGSounds/releases)
 2. Place it in `<Game Directory>/BepInEx/plugins/`
 3. Launch the game
 
@@ -154,8 +156,8 @@ flowchart TD
 ### Building from Source
 
 ```bash
-git clone https://github.com/T3CC4/og-crusader-sounds.git
-cd og-crusader-sounds
+git clone https://github.com/T3CC4/OGSounds.git
+cd OGSounds
 # Open in Visual Studio and build
 # Reference: BepInEx.Core.dll, UnityEngine.CoreModule.dll
 ```
